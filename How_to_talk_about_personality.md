@@ -1,36 +1,36 @@
 # How To Talk About Personality
 
-## 1.egoist           	:	利己主义者
+## 1.egoist Эгоист          	:	利己主义者
 
-1. ego					:		I,self
+1. ego		самлюбие			:		I,self
 	- ego              	:        	自我
-	- egocentric        :     	自我为中心的
+	- egocentric  эгоцентричние      :     	自我为中心的
 	- egomaniac         :		极端利己主义者, 极端自我主义者,自大狂
 	- egomaniacal       :	极端利己的
 
-## 2.egotist          	:自大的人
+## 2.egotist          	:自大的人     ：egotism эготизм
 
-## 3.altruist 		:利他主义者
+## 3.altruist 	альтруист	:利他主义者   
 
 1. alter                :other
-	- alism				:利他主义
-	- altruistic			:	利他主义的
-	- alternate             :  		other possible 替代物，skip one and take other 间隔，轮换
-	- alternative            :		other choice   替代物            
-	- altercation            :		a verbal dispute 争吵
-	- alteration              :		a change 改变
-	- alter ego               	:	另一个我
+	- alism		ализм		:利他主义
+	- altruistic		альтруистический	:	利他主义的
+	- alternate         альтернативный    :  		other possible 替代物，skip one and take other 间隔，轮换
+	- alternative       альтернативный     :		other choice   替代物            
+	- altercation      препирательство      :		a verbal dispute 争吵
+	- alteration      изменение        :		a change 改变
+	- alter ego         альтер эго      	:	另一个我
 
-## 4.introvert        	:内向的人
+## 4.introvert      интроверт  	:内向的人
 
-1. intro-              	:		inward   向内
-2. vert-               	:		来自拉丁语 verto=to turn
+1. intro-       интро-       	:		inward   向内
+2. vert-         верт-      	:		来自拉丁语 verto=to turn
 
-## 5.extrovert       	:外向的人
+## 5.extrovert     экстроверт  	:外向的人
 	
-1. extro-             	:		outward 向外
+1. extro-       экстро-      	:		outward 向外
 
-## 6.ambivert       	:又内向又外向的普通人
+## 6.ambivert     противоречивый  	:又内向又外向的普通人
 
 1. ambi-             			:both       向两个方向
 	- ambidextrous 				:左右手共用的人，两面派的，灵巧的。
@@ -42,36 +42,36 @@
 		6. droit 				:法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。 
 	- ambidextrity				:两手俱技巧独特
 	
-## 7.misanthrope 	:反人类
+## 7.misanthrope мизантроп	:反人类
 
 
 1. misein 						:拉丁语 to hate
 2. anthropes					:人类的  
-	- anthropology 				:人类学
+	- anthropology 	антрополог			:人类学
 	- anthropologist 			:人类学家
-	- philanthropist 			:慈善家
+	- philanthropist филантроп			:慈善家
 		1. phil- 				:爱
-			- Philadelphia: 	:费城 philos "loving" (see -phile) + adelphos "brother"
+			- Philadelphia: Филадельфии	:费城 philos "loving" (see -phile) + adelphos "brother"
 
 		
-## 8.misogynist    	:反女人
+## 8.misogynist   женоненавитник 	:反女人
 
 1. gyne							:女人 woman
-	- gynecologist 				:妇科医生
+	- gynecologist 		гинеколог		:妇科医生
 	- polygyny 					:一夫多妻
 		1. mono-  				:单一
 		2. polys- 				:多的
-2. andry   						:man,来自拉丁语andros    
-	- polyandry 				:一妻多夫
+2. andry   		андри				:man,来自拉丁语andros    
+	- polyandry 	полиандрия			:一妻多夫
 
 
-## 9.misogamist   	       :反婚姻    
+## 9.misogamist   	моногамия       :反婚姻    
 
 1. gamos 						:婚姻,marriage 
 	- monogamy 					:一夫一妻制
 	- bigamy					:重婚罪 
 	- polygamy 					:一夫多妻或一妻多夫制
 
-## 10.ascetic        	:禁欲主义者
+## 10.ascetic     аскет   	:禁欲主义者
 
 1. asketes 					:拉丁语，monk，hermit
